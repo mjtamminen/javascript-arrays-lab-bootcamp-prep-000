@@ -1,5 +1,5 @@
-var kittens
+var kittens = []
 
 function destructivelyAppendKitten(name) {
-  array.pop(name)
+  kittens.pop(name)
 }
